@@ -17,7 +17,7 @@ or
 sudo make install
 ```
 ## Usage
-<h3>Python</h3>
+Python
 Generate keywords as pandas dataframe.
 ```python
 from google_ads_keywords_generator import generate
