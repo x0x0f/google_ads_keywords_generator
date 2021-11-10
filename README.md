@@ -17,7 +17,7 @@ or
 sudo make install
 ```
 ## Usage
-###Python
+**Python**
 Generate keywords as pandas dataframe.
 ```python
 from google_ads_keywords_generator import generate
@@ -118,7 +118,7 @@ batch_run(
     campaigns_folder='folder_with_campaigns_folders',  # path where campaign folders allocated
 )
 ```
-###Console
+**Console**
 Help info.
 ```bash
 google_ads_keywords_generator generate --help
