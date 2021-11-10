@@ -118,7 +118,7 @@ batch_run(
     campaigns_folder='folder_with_campaigns_folders',  # path where campaign folders allocated
 )
 ```
-## Console
+### Console
 Help info.
 ```bash
 google_ads_keywords_generator generate --help
