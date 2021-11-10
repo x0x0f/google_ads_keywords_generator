@@ -1,0 +1,181 @@
+Ad Group,Keyword,Campaign,Criterion Type
+sofas,sofas buy,test_campaign,Exact
+sofas,buy sofas,test_campaign,Exact
+sofas,sofas prices,test_campaign,Exact
+sofas,prices sofas,test_campaign,Exact
+sofas,sofas discount,test_campaign,Exact
+sofas,discount sofas,test_campaign,Exact
+sofas,sofas budget,test_campaign,Exact
+sofas,budget sofas,test_campaign,Exact
+sofas,sofas cheap,test_campaign,Exact
+sofas,cheap sofas,test_campaign,Exact
+sofas,sofas promotion,test_campaign,Exact
+sofas,promotion sofas,test_campaign,Exact
+convertible sofas,convertible sofas buy,test_campaign,Exact
+convertible sofas,buy convertible sofas,test_campaign,Exact
+convertible sofas,convertible sofas prices,test_campaign,Exact
+convertible sofas,prices convertible sofas,test_campaign,Exact
+convertible sofas,convertible sofas discount,test_campaign,Exact
+convertible sofas,discount convertible sofas,test_campaign,Exact
+convertible sofas,convertible sofas budget,test_campaign,Exact
+convertible sofas,budget convertible sofas,test_campaign,Exact
+convertible sofas,convertible sofas cheap,test_campaign,Exact
+convertible sofas,cheap convertible sofas,test_campaign,Exact
+convertible sofas,convertible sofas promotion,test_campaign,Exact
+convertible sofas,promotion convertible sofas,test_campaign,Exact
+love seats,love seats buy,test_campaign,Exact
+love seats,buy love seats,test_campaign,Exact
+love seats,love seats prices,test_campaign,Exact
+love seats,prices love seats,test_campaign,Exact
+love seats,love seats discount,test_campaign,Exact
+love seats,discount love seats,test_campaign,Exact
+love seats,love seats budget,test_campaign,Exact
+love seats,budget love seats,test_campaign,Exact
+love seats,love seats cheap,test_campaign,Exact
+love seats,cheap love seats,test_campaign,Exact
+love seats,love seats promotion,test_campaign,Exact
+love seats,promotion love seats,test_campaign,Exact
+recliners,recliners buy,test_campaign,Exact
+recliners,buy recliners,test_campaign,Exact
+recliners,recliners prices,test_campaign,Exact
+recliners,prices recliners,test_campaign,Exact
+recliners,recliners discount,test_campaign,Exact
+recliners,discount recliners,test_campaign,Exact
+recliners,recliners budget,test_campaign,Exact
+recliners,budget recliners,test_campaign,Exact
+recliners,recliners cheap,test_campaign,Exact
+recliners,cheap recliners,test_campaign,Exact
+recliners,recliners promotion,test_campaign,Exact
+recliners,promotion recliners,test_campaign,Exact
+sofa beds,sofa beds buy,test_campaign,Exact
+sofa beds,buy sofa beds,test_campaign,Exact
+sofa beds,sofa beds prices,test_campaign,Exact
+sofa beds,prices sofa beds,test_campaign,Exact
+sofa beds,sofa beds discount,test_campaign,Exact
+sofa beds,discount sofa beds,test_campaign,Exact
+sofa beds,sofa beds budget,test_campaign,Exact
+sofa beds,budget sofa beds,test_campaign,Exact
+sofa beds,sofa beds cheap,test_campaign,Exact
+sofa beds,cheap sofa beds,test_campaign,Exact
+sofa beds,sofa beds promotion,test_campaign,Exact
+sofa beds,promotion sofa beds,test_campaign,Exact
+sofas,sofas buy,test_campaign,Phrase
+sofas,buy sofas,test_campaign,Phrase
+sofas,sofas prices,test_campaign,Phrase
+sofas,prices sofas,test_campaign,Phrase
+sofas,sofas discount,test_campaign,Phrase
+sofas,discount sofas,test_campaign,Phrase
+sofas,sofas budget,test_campaign,Phrase
+sofas,budget sofas,test_campaign,Phrase
+sofas,sofas cheap,test_campaign,Phrase
+sofas,cheap sofas,test_campaign,Phrase
+sofas,sofas promotion,test_campaign,Phrase
+sofas,promotion sofas,test_campaign,Phrase
+convertible sofas,convertible sofas buy,test_campaign,Phrase
+convertible sofas,buy convertible sofas,test_campaign,Phrase
+convertible sofas,convertible sofas prices,test_campaign,Phrase
+convertible sofas,prices convertible sofas,test_campaign,Phrase
+convertible sofas,convertible sofas discount,test_campaign,Phrase
+convertible sofas,discount convertible sofas,test_campaign,Phrase
+convertible sofas,convertible sofas budget,test_campaign,Phrase
+convertible sofas,budget convertible sofas,test_campaign,Phrase
+convertible sofas,convertible sofas cheap,test_campaign,Phrase
+convertible sofas,cheap convertible sofas,test_campaign,Phrase
+convertible sofas,convertible sofas promotion,test_campaign,Phrase
+convertible sofas,promotion convertible sofas,test_campaign,Phrase
+love seats,love seats buy,test_campaign,Phrase
+love seats,buy love seats,test_campaign,Phrase
+love seats,love seats prices,test_campaign,Phrase
+love seats,prices love seats,test_campaign,Phrase
+love seats,love seats discount,test_campaign,Phrase
+love seats,discount love seats,test_campaign,Phrase
+love seats,love seats budget,test_campaign,Phrase
+love seats,budget love seats,test_campaign,Phrase
+love seats,love seats cheap,test_campaign,Phrase
+love seats,cheap love seats,test_campaign,Phrase
+love seats,love seats promotion,test_campaign,Phrase
+love seats,promotion love seats,test_campaign,Phrase
+recliners,recliners buy,test_campaign,Phrase
+recliners,buy recliners,test_campaign,Phrase
+recliners,recliners prices,test_campaign,Phrase
+recliners,prices recliners,test_campaign,Phrase
+recliners,recliners discount,test_campaign,Phrase
+recliners,discount recliners,test_campaign,Phrase
+recliners,recliners budget,test_campaign,Phrase
+recliners,budget recliners,test_campaign,Phrase
+recliners,recliners cheap,test_campaign,Phrase
+recliners,cheap recliners,test_campaign,Phrase
+recliners,recliners promotion,test_campaign,Phrase
+recliners,promotion recliners,test_campaign,Phrase
+sofa beds,sofa beds buy,test_campaign,Phrase
+sofa beds,buy sofa beds,test_campaign,Phrase
+sofa beds,sofa beds prices,test_campaign,Phrase
+sofa beds,prices sofa beds,test_campaign,Phrase
+sofa beds,sofa beds discount,test_campaign,Phrase
+sofa beds,discount sofa beds,test_campaign,Phrase
+sofa beds,sofa beds budget,test_campaign,Phrase
+sofa beds,budget sofa beds,test_campaign,Phrase
+sofa beds,sofa beds cheap,test_campaign,Phrase
+sofa beds,cheap sofa beds,test_campaign,Phrase
+sofa beds,sofa beds promotion,test_campaign,Phrase
+sofa beds,promotion sofa beds,test_campaign,Phrase
+sofas,sofas buy,test_campaign,Broad
+sofas,buy sofas,test_campaign,Broad
+sofas,sofas prices,test_campaign,Broad
+sofas,prices sofas,test_campaign,Broad
+sofas,sofas discount,test_campaign,Broad
+sofas,discount sofas,test_campaign,Broad
+sofas,sofas budget,test_campaign,Broad
+sofas,budget sofas,test_campaign,Broad
+sofas,sofas cheap,test_campaign,Broad
+sofas,cheap sofas,test_campaign,Broad
+sofas,sofas promotion,test_campaign,Broad
+sofas,promotion sofas,test_campaign,Broad
+convertible sofas,convertible sofas buy,test_campaign,Broad
+convertible sofas,buy convertible sofas,test_campaign,Broad
+convertible sofas,convertible sofas prices,test_campaign,Broad
+convertible sofas,prices convertible sofas,test_campaign,Broad
+convertible sofas,convertible sofas discount,test_campaign,Broad
+convertible sofas,discount convertible sofas,test_campaign,Broad
+convertible sofas,convertible sofas budget,test_campaign,Broad
+convertible sofas,budget convertible sofas,test_campaign,Broad
+convertible sofas,convertible sofas cheap,test_campaign,Broad
+convertible sofas,cheap convertible sofas,test_campaign,Broad
+convertible sofas,convertible sofas promotion,test_campaign,Broad
+convertible sofas,promotion convertible sofas,test_campaign,Broad
+love seats,love seats buy,test_campaign,Broad
+love seats,buy love seats,test_campaign,Broad
+love seats,love seats prices,test_campaign,Broad
+love seats,prices love seats,test_campaign,Broad
+love seats,love seats discount,test_campaign,Broad
+love seats,discount love seats,test_campaign,Broad
+love seats,love seats budget,test_campaign,Broad
+love seats,budget love seats,test_campaign,Broad
+love seats,love seats cheap,test_campaign,Broad
+love seats,cheap love seats,test_campaign,Broad
+love seats,love seats promotion,test_campaign,Broad
+love seats,promotion love seats,test_campaign,Broad
+recliners,recliners buy,test_campaign,Broad
+recliners,buy recliners,test_campaign,Broad
+recliners,recliners prices,test_campaign,Broad
+recliners,prices recliners,test_campaign,Broad
+recliners,recliners discount,test_campaign,Broad
+recliners,discount recliners,test_campaign,Broad
+recliners,recliners budget,test_campaign,Broad
+recliners,budget recliners,test_campaign,Broad
+recliners,recliners cheap,test_campaign,Broad
+recliners,cheap recliners,test_campaign,Broad
+recliners,recliners promotion,test_campaign,Broad
+recliners,promotion recliners,test_campaign,Broad
+sofa beds,sofa beds buy,test_campaign,Broad
+sofa beds,buy sofa beds,test_campaign,Broad
+sofa beds,sofa beds prices,test_campaign,Broad
+sofa beds,prices sofa beds,test_campaign,Broad
+sofa beds,sofa beds discount,test_campaign,Broad
+sofa beds,discount sofa beds,test_campaign,Broad
+sofa beds,sofa beds budget,test_campaign,Broad
+sofa beds,budget sofa beds,test_campaign,Broad
+sofa beds,sofa beds cheap,test_campaign,Broad
+sofa beds,cheap sofa beds,test_campaign,Broad
+sofa beds,sofa beds promotion,test_campaign,Broad
+sofa beds,promotion sofa beds,test_campaign,Broad
