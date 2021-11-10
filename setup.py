@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    author='x0x0',
+    author='x0x0f',
     description='GENERATE KEYWORDS FOR GOOGLE ADS',
     name='google_ads_keywords_generator',
     version='0.1.0',
