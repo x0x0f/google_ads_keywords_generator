@@ -16,6 +16,10 @@ or
 ```bash
 sudo make install
 ```
+from github
+```bash
+pip install git+https://github.com/x0x0f/google_ads_keywords_generator.git
+```
 ## Usage
 ###Python
 Generate keywords as pandas dataframe.
